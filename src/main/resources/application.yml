@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: spring-cloud-config-server-crystalbudget
+    
+server:
+  port: 8888
