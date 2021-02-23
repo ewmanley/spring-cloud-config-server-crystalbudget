@@ -1,6 +1,14 @@
 spring:
   application:
     name: spring-cloud-config-server-crystalbudget
-    
+  cloud:
+    config:
+      server:
+        git:
+          uri: file:///C:/Users/Earl/CrystalBudget/Spring/local-repo-crystalbudget
 server:
   port: 8888
+
+
+
+
