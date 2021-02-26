@@ -6,9 +6,9 @@ spring:
       server:
         git:
           uri: file:///C:/Users/Earl/CrystalBudget/Spring/local-repo-crystalbudget
+          default-label: main
 server:
   port: 8888
-
 
 
 #77777
